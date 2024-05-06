@@ -3,7 +3,7 @@ Analysis of the Solar System planets, based on Kaggle dataset and done in Jupyte
 Main features:
 <ul>
   <li>Libraries used: Pandas, NumPy, Matplotlib, Seaborn </li>
-  <li>Actions done: import dataframe, data preparation, data visualisation</li>
+  <li>Import dataframe (.csv)</li>
   <li>Data preparation: show columns, drop columns, change column type, rename columns, identify missing values, duplicates check</li>
   <li>Data visualisation: bar chart, scatter plot, Seaborn scatter plot, Seaborn pairplot, Seaborn heatmap (using corr())</li>
 </ul>
