@@ -8,4 +8,12 @@ Main features:
   <li>Data visualisation: bar chart, scatter plot, Seaborn scatter plot, Seaborn pairplot, Seaborn heatmap (using corr())</li>
 </ul>
 <br>
+
+![solar_01](https://github.com/Anna-portfolio/Python-Data-Analysis/assets/75646880/18f2f202-a942-45b5-a080-93f72a5de1bf)
+
+
+![solar_02](https://github.com/Anna-portfolio/Python-Data-Analysis/assets/75646880/57dd39c1-ea11-4454-88d7-07564ff3df59)
+
+
+
 Dataset source: https://www.kaggle.com/datasets/iamsouravbanerjee/planet-dataset
